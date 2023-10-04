@@ -4,7 +4,7 @@
         <title></title>
     </head>
     <body>
-    <form action="learning.php" method="get">
+    <form action="userInput.php" method="get">
         Name: <input type="text" name="firstName">
         <br>
         Age: <input type="number" name="age">
