@@ -19,6 +19,7 @@
         echo $string;
         echo "<br>";
         echo $names[1];
+        
     ?>
 
 </body>
