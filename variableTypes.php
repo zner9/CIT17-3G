@@ -15,10 +15,11 @@
 
         // Array type
         $names = ["Renz", "Louis", "Desiderio"];
-
+    
         echo $string;
         echo "<br>";
         echo $names[1];
+        echo "hehe";
         
     ?>
 
